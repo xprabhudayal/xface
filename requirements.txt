@@ -1,0 +1,6 @@
+deepface
+python-telegram-bot>=13.3
+opencv-python  
+Pillow   
+requests 
+numpy
